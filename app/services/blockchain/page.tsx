@@ -1021,12 +1021,3 @@ export default function BlockchainPage() {
     </>
   )
 }
-                )}
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
-    </>
-  )
-}
